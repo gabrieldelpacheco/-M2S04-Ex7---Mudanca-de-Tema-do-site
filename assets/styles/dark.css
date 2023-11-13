@@ -1,0 +1,8 @@
+body.dark-theme {
+    background-color: #222;
+    color: #fff;
+}
+
+.dark-theme button {
+    color: #fff;
+}
